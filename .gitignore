@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Backend binary
+backend/app
+
+# Env
+.env
+backend/.env
+.env.local
+
+# Misc
+tmp/
+*.log
+.vscode/
+.idea/
+/dist
+/build
+frontend/build/
+coverage/
+*.sqlite
+*.db
+
+# Ignore built frontend assets
+/frontend/build/
