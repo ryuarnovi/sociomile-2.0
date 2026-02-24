@@ -31,8 +31,6 @@ The frontend sometimes needs sample data (channels, demo users). To ensure DB se
 
 ```bash
 docker compose exec -T postgres psql -U sociomile -d sociomile_db < backend/migrations/postgres_init.sql
-docker compose exec -T postgres psql -U sociomile -d sociomile_db < backend/migrations/004_insert_local_admin.sql
-docker compose exec -T postgres psql -U sociomile -d sociomile_db < backend/migrations/005_insert_local_agent.sql
 ```
 
 ## Useful endpoints for the frontend
