@@ -109,13 +109,4 @@ Troubleshooting
 - Jika backend tidak terhubung ke DB, periksa environment variables dan apakah container DB aktif.
 - Periksa log pada container Docker atau jalankan server lokal untuk pesan error lebih rinci.
 
-Next steps (opsional)
----------------------
-- Tambah dokumentasi endpoint API (OpenAPI / Postman collection).
-- Tambah instruksi environment variables contoh (`.env.example`).
-- Tambah CI untuk linting dan test.
-
-License & kontak
------------------
-Sertakan lisensi proyek di file `LICENSE` jika diperlukan. Untuk pertanyaan, buka issue di repository.
 
