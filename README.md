@@ -14,28 +14,30 @@ Repository layout
 
 Dokumentasi & Diagram
 ---------------------
-Terdapat diagram dan gambar pendukung di folder `docs`. Daftar file:
+Terdapat diagram dan gambar pendukung di folder `docs`. Di bawah ini adalah galeri gambar (thumbnail). Klik gambar untuk melihat versi penuh.
 
-- [docs/image copy 2.png](docs/image%20copy%202.png)
-- [docs/image copy 3.png](docs/image%20copy%203.png)
-- [docs/image copy 4.png](docs/image%20copy%204.png)
-- [docs/image copy 5.png](docs/image%20copy%205.png)
-- [docs/image copy 6.png](docs/image%20copy%206.png)
-- [docs/image copy 7.png](docs/image%20copy%207.png)
-- [docs/image copy 8.png](docs/image%20copy%208.png)
-- [docs/image copy 9.png](docs/image%20copy%209.png)
-- [docs/image copy 10.png](docs/image%20copy%2010.png)
-- [docs/image copy 11.png](docs/image%20copy%2011.png)
-- [docs/image copy 12.png](docs/image%20copy%2012.png)
-- [docs/image copy 13.png](docs/image%20copy%2013.png)
-- [docs/image copy 14.png](docs/image%20copy%2014.png)
-- [docs/image copy 15.png](docs/image%20copy%2015.png)
-- [docs/image copy 16.png](docs/image%20copy%2016.png)
-- [docs/image copy 17.png](docs/image%20copy%2017.png)
-- [docs/image copy.png](docs/image%20copy.png)
-- [docs/image.png](docs/image.png)
+<div>
+	<a href="./docs/image.png"><img src="./docs/image.png" alt="image" style="max-width:280px; margin:6px"/></a>
+	<a href="./docs/image%20copy.png"><img src="./docs/image%20copy.png" alt="image copy" style="max-width:280px; margin:6px"/></a>
+	<a href="./docs/image%20copy%202.png"><img src="./docs/image%20copy%202.png" alt="image copy 2" style="max-width:280px; margin:6px"/></a>
+	<a href="./docs/image%20copy%203.png"><img src="./docs/image%20copy%203.png" alt="image copy 3" style="max-width:280px; margin:6px"/></a>
+	<a href="./docs/image%20copy%204.png"><img src="./docs/image%20copy%204.png" alt="image copy 4" style="max-width:280px; margin:6px"/></a>
+	<a href="./docs/image%20copy%205.png"><img src="./docs/image%20copy%205.png" alt="image copy 5" style="max-width:280px; margin:6px"/></a>
+	<a href="./docs/image%20copy%206.png"><img src="./docs/image%20copy%206.png" alt="image copy 6" style="max-width:280px; margin:6px"/></a>
+	<a href="./docs/image%20copy%207.png"><img src="./docs/image%20copy%207.png" alt="image copy 7" style="max-width:280px; margin:6px"/></a>
+	<a href="./docs/image%20copy%208.png"><img src="./docs/image%20copy%208.png" alt="image copy 8" style="max-width:280px; margin:6px"/></a>
+	<a href="./docs/image%20copy%209.png"><img src="./docs/image%20copy%209.png" alt="image copy 9" style="max-width:280px; margin:6px"/></a>
+	<a href="./docs/image%20copy%2010.png"><img src="./docs/image%20copy%2010.png" alt="image copy 10" style="max-width:280px; margin:6px"/></a>
+	<a href="./docs/image%20copy%2011.png"><img src="./docs/image%20copy%2011.png" alt="image copy 11" style="max-width:280px; margin:6px"/></a>
+	<a href="./docs/image%20copy%2012.png"><img src="./docs/image%20copy%2012.png" alt="image copy 12" style="max-width:280px; margin:6px"/></a>
+	<a href="./docs/image%20copy%2013.png"><img src="./docs/image%20copy%2013.png" alt="image copy 13" style="max-width:280px; margin:6px"/></a>
+	<a href="./docs/image%20copy%2014.png"><img src="./docs/image%20copy%2014.png" alt="image copy 14" style="max-width:280px; margin:6px"/></a>
+	<a href="./docs/image%20copy%2015.png"><img src="./docs/image%20copy%2015.png" alt="image copy 15" style="max-width:280px; margin:6px"/></a>
+	<a href="./docs/image%20copy%2016.png"><img src="./docs/image%20copy%2016.png" alt="image copy 16" style="max-width:280px; margin:6px"/></a>
+	<a href="./docs/image%20copy%2017.png"><img src="./docs/image%20copy%2017.png" alt="image copy 17" style="max-width:280px; margin:6px"/></a>
+</div>
 
-Untuk menampilkan salah satu diagram langsung pada README, GitHub akan merender file gambar yang dirujuk. Jika Anda mau, saya bisa menyisipkan satu atau beberapa gambar langsung di README (thumbnail atau versi penuh).
+Untuk melihat gambar pada GitHub, pastikan file-file tersebut ada di folder `docs/` (sudah di-commit). Jika ingin ukuran thumbnail berbeda, saya bisa sesuaikan `max-width`.
 
 Fitur utama
 -----------
