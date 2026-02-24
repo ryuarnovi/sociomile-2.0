@@ -37,8 +37,6 @@ Terdapat diagram dan gambar pendukung di folder `docs`. Di bawah ini adalah gale
 	<a href="./docs/image%20copy%2017.png"><img src="./docs/image%20copy%2017.png" alt="image copy 17" style="max-width:280px; margin:6px"/></a>
 </div>
 
-Untuk melihat gambar pada GitHub, pastikan file-file tersebut ada di folder `docs/` (sudah di-commit). Jika ingin ukuran thumbnail berbeda, saya bisa sesuaikan `max-width`.
-
 Fitur utama
 -----------
 - Autentikasi dan manajemen user
